@@ -1,0 +1,72 @@
+.titúlo {
+    position: fixed;
+    left: 0;
+    top: 0;
+    background-color: rgb(10, 39, 168);
+    font-family: Arial;
+    text-align: center;
+    color: #fff;    
+    width: 100%;
+    padding: 12px;
+    margin: 0;
+}
+ 
+.block-1 {
+    display: inline ;
+    margin: 10px;
+     
+}
+
+.descrição-livro{
+    font-family:  Helvetica;
+    padding: 5px;
+    margin: 8px;
+
+}
+
+.livro-lista{
+    font-family: Helvetica;
+    padding: 5px;
+    margin: 20px;
+}
+
+#lista {
+    padding: 15px;
+    background-color: #50f105;
+    border-radius: 6px ;
+    border: 2px solid #195f0b; 
+    text-decoration: none;
+    color: #030c3d;
+    display: inline;
+    margin: 20px;
+    transition: 0,5s;
+}
+
+#lista:hover{
+    background-color: #25b908;
+
+}
+
+.preço{
+    font-family: Arial, Helvetica, sans-serif;
+    display: inline-block;
+}
+.titúlo-livro {
+     color: rgb(10, 39, 168);
+     font-family: Helvetica;
+     padding: 5px;
+}
+
+
+
+.nome {
+    background-color: rgb(10, 39, 168);
+    color: #fff;
+    display: flexbox;
+    text-align: center;
+    padding: 50px;
+    font-family: Arial;
+}
+
+
+
